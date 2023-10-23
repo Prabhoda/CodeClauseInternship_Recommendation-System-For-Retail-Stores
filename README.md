@@ -38,5 +38,9 @@ We do observe that the more the sales, the more profit the business made, confor
 
 This makes sense, we expect to make more profit where we sell more
 
+EXclusive Dash Board
+![image](https://github.com/Prabhoda/CodeClauseInternship_Recommendation-System-For-Retail-Stores/assets/103125935/44ab5063-b827-43af-bce4-66fd3fdd3d53)
+
+
 
 
